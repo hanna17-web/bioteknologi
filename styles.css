@@ -127,7 +127,7 @@ section.about{
 
 .deskabout{
     color: #F3E3D0;
-    
+    width:53%;
     margin: auto;
     display: flex;
     & h3{
@@ -182,6 +182,7 @@ section.about{
     font-size: 24x;
 
 }
+
 
 
 
